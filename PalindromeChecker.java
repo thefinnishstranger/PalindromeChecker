@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class palindromeChecker {
+public class PalindromeChecker {
 
   public static Scanner s = new Scanner(System.in);
 
